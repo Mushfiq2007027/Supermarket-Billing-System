@@ -1,7 +1,7 @@
-# 🛒 Supermarket Management System in C++
+# 🛒 Supermarket Billing System in C++
 
 ## 📌 Project Overview
-This **Supermarket Management System** is a C++-based console application designed to simulate and manage a simple supermarket’s operations using **file handling** and **Object-Oriented Programming (OOP)** concepts. The system allows two primary user roles: **Administrator** and **Buyer**. It supports CRUD operations on products, maintains persistent data via text files, and features a functional billing system with product discounts.
+This **Supermarket Billing System** is a C++-based console application designed to simulate and manage a simple supermarket’s operations using **file handling** and **Object-Oriented Programming (OOP)** concepts. The system allows two primary user roles: **Administrator** and **Buyer**. It supports CRUD operations on products, maintains persistent data via text files, and features a functional billing system with product discounts.
 
 ---
 
